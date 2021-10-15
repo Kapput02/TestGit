@@ -12,6 +12,6 @@
             <ColumnDefinition Width="17*"/>
         </Grid.ColumnDefinitions>
         <Label Content="Modificated" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top"/>
-
+        <Label Content="Cliccami" FontSize="25" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
     </Grid>
 </Window>
