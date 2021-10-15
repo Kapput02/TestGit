@@ -12,6 +12,9 @@
             <ColumnDefinition Width="17*"/>
         </Grid.ColumnDefinitions>
         <Label Content="Modificated" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top"/>
-
+        <DockPanel>
+            <Label DockPanel.Dock="Top">Titolo Finestra</Label>
+            <Label DockPanel.Dock="Bottom" VerticalAlignment="Bottom">Footer finestra</Label>
+        </DockPanel>
     </Grid>
 </Window>
